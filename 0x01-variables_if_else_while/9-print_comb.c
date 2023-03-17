@@ -1,7 +1,6 @@
-
 /*
  * File: 9-print_comb.c
- * Auth: chaimaa lam
+ * Auth: Brennan D Baraban
  */
 
 #include <stdio.h>
@@ -29,3 +28,4 @@ int main(void)
 
 	return (0);
 }
+
