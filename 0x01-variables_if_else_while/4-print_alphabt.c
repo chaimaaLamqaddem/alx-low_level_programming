@@ -1,5 +1,5 @@
 /*
- * File: 4-print_alphabt.c
+ * File:4-print_alphabt.c
  * Auth:chaimaa lam 
  */
 
