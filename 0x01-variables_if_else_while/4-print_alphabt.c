@@ -1,6 +1,6 @@
 /*
  * File: 4-print_alphabt.c
- * Auth: chaimaa lam 
+ * Auth:chaimaa lam 
  */
 
 #include <stdio.h>
